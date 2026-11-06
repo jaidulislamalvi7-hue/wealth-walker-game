@@ -28,5 +28,4 @@ Pure HTML + CSS + JavaScript. No dependencies, no build step, no backend.
 **Jaidul Islam** — Nantong University, Computer Science  
 📧 jaidulislamalvi7@gmail.com
 
-## License
-MIT (or your choice)
+
