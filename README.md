@@ -2,7 +2,7 @@
 
 A single-file HTML5 canvas game about collecting wealth — and learning that money isn't everything.
 
-**Play now:** https://YOUR_USERNAME.github.io/wealth-walker/
+**Play now:** https://jaidulislamalvi7-hue.github.io/wealth-walker-game/
 
 ## Features
 - 🎮 Canvas-based snake-style gameplay
